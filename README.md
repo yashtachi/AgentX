@@ -1,11 +1,35 @@
-# Monad Blitz Hyderbad Submission Process
+# 🤖 AgentX  
+**Deploy, Run, and Evolve Autonomous AI Agents on the Monard Blockchain**
 
-1. Visit the `monad-blitz-hyderabad` repo (link [here](https://github.com/monad-developers/monad-blitz-hyderabad)) and fork it.
+---
 
-<img width="1511" alt="Screenshot 2025-07-07 at 10 12 23 AM" src="https://github.com/user-attachments/assets/e8196bd5-90f7-4906-9994-2580f1b4b3ba" />
+## 🧠 Overview
 
-2. Give it your project name, a one-liner description, make sure you are forking `main` branch and click `Create Fork`.
+**AgentX** is a decentralized platform for creating and managing **on-chain AI agents**. It allows users to deploy smart contracts that represent autonomous AI-powered agents with their own goals, memory, and behavior.
 
-<img width="1511" alt="Screenshot 2025-07-07 at 10 11 40 AM" src="https://github.com/user-attachments/assets/0c35b1d6-e8d1-4f8f-a1af-3bcaa476eec6" />
+Built on the **Monard testnet**, AgentX combines the power of blockchain with the reasoning capabilities of large language models (LLMs) like **OpenAI’s GPT-4**.
 
-3. In your fork you can make all the changes you want, add code of your project, create branches, add information to `README.md`, you can change anything and everything.
+---
+
+## 🚀 Features
+
+- 🧱 **Agent Factory** – Deploy your own AI agents on-chain
+- 🧠 **Smart Agent Contracts** – Store goals, responses, and history
+- 🔗 **Monard Testnet** – Scalable modular infrastructure
+- 🤖 **Off-chain Executor** – Runs agent logic via GPT-4/OpenAI
+- 🧾 **On-chain Memory** – Agent reasoning written to the blockchain
+
+---
+
+## 🔍 Use Cases
+
+- 🗳 DAO Proposal Summarization  
+- 🧠 On-chain Knowledge Agents  
+- 📈 DeFi Monitors  
+- ✉️ AI Email & Notification Handlers  
+- 🎮 NPCs for Web3 Games
+
+---
+
+## ⚙️ Architecture
+
